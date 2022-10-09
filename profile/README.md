@@ -8,6 +8,7 @@ Learn More About Us: www.sectrend.com.cn
 
 Contact Us: 
     - Marketing: marketing@sectrend.com.cn
-    - Product & General Inquiry: info@sectrend.com.cn
     - Collaboration: feng.wang@sectrend.com.cn
+    - General Inquiry: info@sectrend.com.cn
+    
     
